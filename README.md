@@ -1,6 +1,6 @@
 # python-web-scrapper
 This Python script performs web scraping to extract company data from a website and saves it in a CSV file. It uses the BeautifulSoup library for HTML parsing and requests library for making HTTP requests.
-It was first created and test for an argentinian website as part of a market research.
+It was first created and test for an argentinian website as part of a market research, where it pulled 800+ company's data in 30+ pages within 2 minutes.
 
 ## Installation
 
