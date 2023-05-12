@@ -7,14 +7,14 @@ This Python script performs web scraping to extract company data from a website 
 2. Ensure you have Python 3.x installed on your machine.
 3. Install the required Python dependencies by running the following command:
 
-pip install requests beautifulsoup4
+**pip install requests beautifulsoup4**
 
 ## Usage
 
 1. Update the `url_base` variable in the code with the URL of the website's page containing the list of companies you want to scrape.
 2. Run the Python script by executing the following command:
 
-python scrapper.py
+**python scrapper.py**
 
 
 3. The script will start scraping the company data from each page and save it in a CSV file named `company.csv` in the same directory.
